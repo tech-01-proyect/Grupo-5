@@ -1,0 +1,51 @@
+/* -------------------- ESTILOS GENERALES -------------------- */
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    margin: 0rem;
+    text-align: left;
+    padding: 0;
+ background: white ;
+}
+
+/* -------------------- ESTILOS DE FONDOS -------------------- */
+.custom-green {
+    background-color: #BBDAD7; /* Celeste pastel */
+}
+
+.cover {
+    color: white;
+    height: 400px;
+    background-image: url(https://isdfundacion.org/wp-content/uploads/2023/08/Estadistica-3-1000x707.jpg);
+    background-position: center;
+}
+
+.cover-small {
+    height: 200px;
+    background-blend-mode: normal;
+}
+
+/* -------------------- ESTILOS DE TEXTO -------------------- */
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+h3 {
+    font-family: "Comic Sans MS", sans-serif;
+    color: black;
+}
+
+h2{
+   font-family: "Comic Sans MS",cursive, sans-serif;
+    color: darkslateblue;
+}
+
+/* -------------------- ESTILOS DE IMÁGENES -------------------- */
+.logo {
+    width: 5rem;
+    height: auto;
+    margin: 1px;
+}
+
+
+
